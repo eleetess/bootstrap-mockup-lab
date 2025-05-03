@@ -1,3 +1,6 @@
 b {
-    color-scheme: white;
+    margin: auto;
+    border: solid;
+    border-radius: 10px;
+    padding: 25px;
 }
